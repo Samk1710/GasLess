@@ -26,5 +26,9 @@ This project implements a forwarder contract that enables users to send ERC-20 a
 
 1. **Clone the Repository**  
    ```bash
-   git clone <repository-url>
+ 2.   git clone <repository-url>
    cd <repository-folder>
+   3 set up .env SEPOLIA_RPC_URL=https://base-sepolia.g.alchemy.com/v2/_JSNJRKYSq4e1X_Yaik_3buI_uDNyAyX
+PRIVATE_KEY=<privatekey>
+BASE_API_KEY=MA55G9IVCP9URJG9B1J69JGF5WN1MP9M9T
+3. npm run dev
